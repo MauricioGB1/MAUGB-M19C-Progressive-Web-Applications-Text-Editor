@@ -32,7 +32,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 This Program can run using on the local terminal hoist location (local port)  3000 or it ca run thru a live browser , application has been deployed to Heroku.
 
 
-Link to Deployed application in Heroku
+` Link to Deployed application in Heroku `
 
   https://still-plains-73805-94f228ef1b5d.herokuapp.com/
 
@@ -53,7 +53,7 @@ then type npm start to run node server.js which will run the server, build, inst
 - Open http://localhost:3001/     
 
 
-- Or Go to Web browser and use the following link:
+- ` Or Go to Web browser and use the following link:  `
   https://still-plains-73805-94f228ef1b5d.herokuapp.com/
 Click Install button on the upper left corner of the browser
 
