@@ -64,7 +64,45 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+- Application text editor running on browser, application deployed on Heroku using the link.
+
+![alt text](./assets/heroku-deployed.jpg)
+
+- npm i and npm start running the application on backend
+![alt text](./assets/webpack.jpg)
+
+- Text editor JAT input data on user terminal
+![alt text](./assets/JATE.jpg)
+
+- Manifest information on Development tools
+![alt text](./assets/manifest.jpg)
+
+
+- Service workers information on application
+![alt text](./assets/serviceworkers-heroku.jpg)
+
+- Service workers vactive verification 
+![alt text](./assets/service-worker-active.jpg)
+
+- Storage information
+
+![alt text](./assets/storage.jpg)
+
+- IndexdedDB data from JATE application
+![alt text](./assets/indexed-DB%20heroku.jpg)
+
+- Cache data
+
+![alt text](./assets/cache-storage.jpg)
+
+- Icon on clocal device to run the application
+
+![alt text](./assets/icon%20on%20computer.jpg)
+
+
+
+
+
 
 ## Credits
 
