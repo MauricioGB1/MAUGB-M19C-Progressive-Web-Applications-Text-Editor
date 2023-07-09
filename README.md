@@ -72,7 +72,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
   
 ![alt text](./assets/webpack.jpg)
 
-- Text editor JAT input data on user terminal
+- Text editor JATE application input data on user terminal
   
 ![alt text](./assets/JATE.jpg)
 
