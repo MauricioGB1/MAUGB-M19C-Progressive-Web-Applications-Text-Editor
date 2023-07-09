@@ -50,7 +50,7 @@ then type npm start to run node server.js which will run the server, build, inst
     "client": "cd client && npm start",
     "heroku-prebuild": "npm install --dev"
 
-- Open http://localhost:3001/     
+- Open http://localhost:3000/     
 
 
 - ` Or Go to Web browser and use the following link:  `
