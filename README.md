@@ -69,9 +69,11 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](./assets/heroku-deployed.jpg)
 
 - npm i and npm start running the application on backend
+  
 ![alt text](./assets/webpack.jpg)
 
 - Text editor JAT input data on user terminal
+  
 ![alt text](./assets/JATE.jpg)
 
 - Manifest information on Development tools
@@ -81,7 +83,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - Service workers information on application
 ![alt text](./assets/serviceworkers-heroku.jpg)
 
-- Service workers vactive verification 
+- Service workers active verification 
 ![alt text](./assets/service-worker-active.jpg)
 
 - Storage information
@@ -89,6 +91,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](./assets/storage.jpg)
 
 - IndexdedDB data from JATE application
+  
 ![alt text](./assets/indexed-DB%20heroku.jpg)
 
 - Cache data
